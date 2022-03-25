@@ -92,9 +92,9 @@
 <ul>
    <li>Gathered a <a href="https://www.kaggle.com/datasets/37798ba55fed88400b584cd0df4e784317eb7a6708e02fd5a650559fb4598353">dataset</a>;</li>
    <li>Developed an <a href="https://github.com/Pythonimous/ficbot">ML-based backend</a> for:</li>
-   <ol>
+   <ul>
       <li> Image -> Name generation
-   </ol>
+   </ul>
    <li>Developed <a href="https://github.com/Pythonimous/ficbot-web">Flask-based web interface</a>;</li>
    <li>Deployed the <a href="https://ficbotweb.herokuapp.com/">Web App</a> :)</li>
 </ul>
