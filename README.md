@@ -1,8 +1,5 @@
 <h1> Look who we have here! Stay awhile and listen :book: </h1>
 
-[![GitHub Pythonimous](https://img.shields.io/github/followers/Pythonimous?label=follow&style=social)](https://github.com/Pythonimous)
-[![Repos](https://badges.pufler.dev/repos/Pythonimous)](https://badges.pufler.dev)
-
 <p>I am Kirill, an ML developer from
    <img alt="Siberia" title="Siberia" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/snow.svg"> <b>Siberia</b>, who recently moved to <img alt="Turkey" title="Turkey" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/turkey.svg" /> <b>Antalya, Turkey</b>. A computational linguist by education, I am in search of a place to apply my skills.</p>
 <p><b><a href="#findme">Contact me</a></b> if you'd like me at your service :pray:</p>
