@@ -1,12 +1,22 @@
-<h1> :wave: I am Kirill! Stay awhile and listen :book: </h1>
+<h1> Hey there! Stay awhile and listen :book: </h1>
 
 [![Linkedin](https://img.shields.io/badge/-kirnikolaev-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kirnikolaev/)](https://www.linkedin.com/in/kirnikolaev/)
 [![Telegram](https://img.shields.io/badge/-Ophelion-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://web.telegram.org/#/im?p=@Ophelion)](https://web.telegram.org/#/im?p=@Ophelion)
 [![GitHub Pythonimous](https://img.shields.io/github/followers/Pythonimous?label=follow&style=social)](https://github.com/Pythonimous)
 [![Repos](https://badges.pufler.dev/repos/Pythonimous)](https://badges.pufler.dev)
 
-<p>Hello there! ML developer from :snowflake: <b>Siberia</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/3909/3909414.png" width="13"/> <b>Antalya, Turkey</b>, at your service!</p> 
+<p>I am Kirill, an ML developer from <a href="https://github.com/topics/python">
+   <img alt="Siberia" title="Siberia" width="13px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/snow.svg" /> <b>Siberia</b>, currently based in <img alt="Turkey" title="Turkey" width="13px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/turkey.svg" /> <b>Antalya, Turkey</b>. At your service!</p>
 
+<h3> 🔭 Things I know: </h3>
+<code>
+<!-- languages -->
+<a href="https://github.com/topics/python">
+   <img alt="Python" title="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+</a>
+
+
+<h3> 🖥️ Recent development breakdown: </h3>
 <!--START_SECTION:waka-->
 
 ```text
