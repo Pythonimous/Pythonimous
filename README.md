@@ -89,15 +89,15 @@
 <h4><img alt="anime" title="anime" width="20px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/anime.png"> An Anime character generator <img alt="anime" title="anime" width="20px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/anime.png"></h4>
 <img src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/gifs/namegen.gif" width="700" />
 <h4>Completed:</h4>
-<ol>
+<ul>
    <li>Gathered a <a href="https://www.kaggle.com/datasets/37798ba55fed88400b584cd0df4e784317eb7a6708e02fd5a650559fb4598353">dataset</a>;</li>
    <li>Developed an <a href="https://github.com/Pythonimous/ficbot">ML-based backend</a> for:</li>
    <ol>
       <li> Image -> Name generation
    </ol>
    <li>Developed <a href="https://github.com/Pythonimous/ficbot-web">Flask-based web interface</a>;</li>
-   <li>Deployed <a href="https://ficbotweb.herokuapp.com/">web app</a> :)</li>
-</ol>
+   <li>Deployed the <a href="https://ficbotweb.herokuapp.com/">Web App</a> :)</li>
+</ul>
 <h4>In development:</h4>
 <ul>
    <li>Biography generation;</li>
