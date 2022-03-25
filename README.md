@@ -1,13 +1,11 @@
 <h1> Look who we have here! Stay awhile and listen :book: </h1>
 
-[![Linkedin](https://img.shields.io/badge/-kirnikolaev-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kirnikolaev/)](https://www.linkedin.com/in/kirnikolaev/)
-[![Telegram](https://img.shields.io/badge/-Ophelion-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://web.telegram.org/#/im?p=@Ophelion)](https://web.telegram.org/#/im?p=@Ophelion)
 [![GitHub Pythonimous](https://img.shields.io/github/followers/Pythonimous?label=follow&style=social)](https://github.com/Pythonimous)
 [![Repos](https://badges.pufler.dev/repos/Pythonimous)](https://badges.pufler.dev)
 
 <p>I am Kirill, an ML developer from
    <img alt="Siberia" title="Siberia" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/snow.svg"> <b>Siberia</b>, who recently moved to <img alt="Turkey" title="Turkey" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/turkey.svg" /> <b>Antalya, Turkey</b>. A computational linguist by education, I am in search of a place to apply my skills.</p>
-<p><a href="mailto:kir.nikolaev7@gmail.com">Contact me</a> if you'd like me at your service :pray:</p>
+<p><b><a href="#findme">Contact me</a></b> if you'd like me at your service :pray:</p>
 
 -----
 
@@ -120,6 +118,16 @@ Text               32 mins         ██░░░░░░░░░░░░░
 Markdown           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 Jupyter            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
+-----
+<h2 id="findme">Find me!</h2>
+<a href="https://www.linkedin.com/in/kirnikolaev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="kir.nikolaev.7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://web.telegram.org/#/im?p=@Ophelion"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://discordapp.com/users/239729180869132289"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://join.skype.com/invite/jg6j00MaY9lm"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white"></a>
+<a href="https://www.facebook.com/kirill.nickolaev.3/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.goodreads.com/user/show/96885015-kirill"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white"></a>
+<a href="https://myanimelist.net/profile/JadeDragonus007"><img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"></a>
 
 <!--END_SECTION:waka-->
 <!--
