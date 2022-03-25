@@ -74,16 +74,16 @@
       <td>
          <!-- languages -->
          <a href="https://www.urbandictionary.com/">
-            <img alt="english" title="english" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/uk.svg" />
+            <img alt="english" title="English" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/uk.svg" />
          </a>
          <a href="https://jisho.org">
-            <img alt="japanese" title="japanese" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/japan.svg" />
+            <img alt="japanese" title="Japanese" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/japan.svg" />
          </a>
          <a href="https://www.linguee.com/english-german">
-            <img alt="german" title="german" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/germany.svg" />
+            <img alt="german" title="German" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/germany.svg" />
          </a>
          <a href="https://translate.google.com">
-            <img alt="turkish" title="turkish" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/turkey.svg" />
+            <img alt="turkish" title="Turkish" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/turkish.svg" />
          </a>
       </td>
       <td>
