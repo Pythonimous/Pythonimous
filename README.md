@@ -84,7 +84,15 @@
    <img alt="german" title="german" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/khan.png" />
 </a>
 
-
+<h3> Thing currently in development: </h3>
+:heart_decoration: <b>An Anime character generator</b> :heart_decoration: 
+<p>Got it through the whole cycle:</p>
+<ol>
+   <li>Gathered a <a href="https://www.kaggle.com/datasets/37798ba55fed88400b584cd0df4e784317eb7a6708e02fd5a650559fb4598353">dataset</a>;</li>
+   <li>Developed an <a href="https://github.com/Pythonimous/ficbot">ML-based backend</a>;</li>
+   <li>Developed <a href="https://github.com/Pythonimous/ficbot-web">Flask-based web interface</a>;</li>
+   <li>Deployed <a href="https://ficbotweb.herokuapp.com/">web app</a> :)</li>
+</ol>
 <h3> 🖥️ Recent development breakdown: </h3>
 <!--START_SECTION:waka-->
 
