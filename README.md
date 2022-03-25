@@ -6,14 +6,12 @@
 [![Repos](https://badges.pufler.dev/repos/Pythonimous)](https://badges.pufler.dev)
 
 <p>I am Kirill, an ML developer from <a href="https://github.com/topics/python">
-   <img alt="Siberia" title="Siberia" width="13px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/snow.svg" /> <b>Siberia</b>, currently based in <img alt="Turkey" title="Turkey" width="13px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/turkey.svg" /> <b>Antalya, Turkey</b>. At your service!</p>
+   <img alt="Siberia" title="Siberia" width="13px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/snow.svg"> <b>Siberia</b>, recently moved to <img alt="Turkey" title="Turkey" width="13px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/turkey.svg" /> <b>Antalya, Turkey</b>. At your service!</p>
 
 <h3> 🔭 Things I know: </h3>
 <code>
 <!-- languages -->
-<a href="https://github.com/topics/python">
-   <img alt="Python" title="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-</a>
+<img alt="Python" title="Python" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/python.svg" />
 </code>
 
 <h3> 🖥️ Recent development breakdown: </h3>
