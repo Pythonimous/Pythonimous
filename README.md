@@ -85,7 +85,10 @@
 </a>
 
 <h3> Thing currently in development: </h3>
-:heart_decoration: <b>An Anime character generator</b> :heart_decoration: 
+:heart_decoration: <b>An Anime character generator</b> :heart_decoration:
+<br>
+<img src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/gifs/namegen.gif" width="700" />
+<br>
 <p>Got it through the whole cycle:</p>
 <ol>
    <li>Gathered a <a href="https://www.kaggle.com/datasets/37798ba55fed88400b584cd0df4e784317eb7a6708e02fd5a650559fb4598353">dataset</a>;</li>
