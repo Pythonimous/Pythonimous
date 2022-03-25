@@ -6,8 +6,8 @@
 [![Repos](https://badges.pufler.dev/repos/Pythonimous)](https://badges.pufler.dev)
 
 <p>I am Kirill, an ML developer from
-   <img alt="Siberia" title="Siberia" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/snow.svg"> <b>Siberia</b>, who recently moved to <img alt="Turkey" title="Turkey" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/turkey.svg" /> <b>Antalya, Turkey</b>. A computational linguist by education, I am in search of a place to apply my skills. At your service!</p>
-<p><a href="mailto:kir.nikolaev7@gmail.com">Contact me</a> if you'd like to take me into your service :pray:</p>
+   <img alt="Siberia" title="Siberia" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/snow.svg"> <b>Siberia</b>, who recently moved to <img alt="Turkey" title="Turkey" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/turkey.svg" /> <b>Antalya, Turkey</b>. A computational linguist by education, I am in search of a place to apply my skills.</p>
+<p><a href="mailto:kir.nikolaev7@gmail.com">Contact me</a> if you'd like me at your service :pray:</p>
 
 <h2>A table of things that...</h2>
 <table>
@@ -98,27 +98,11 @@
    </tr>
 </table>
 
-<h3> The Thing currently in development: </h3>
-<h4><img alt="anime" title="anime" width="20px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/anime.png"> An Anime character generator <img alt="anime" title="anime" width="20px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/anime.png"></h4>
+<h3>The Thing currently in development:</h3>
+<h4><img alt="anime" title="anime" width="20px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/anime.png">  <a href="https://ficbotweb.herokuapp.com/">An Anime character generator</a>  <img alt="anime" title="anime" width="20px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/anime.png"></h4>
 <img src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/gifs/namegen.gif" width="700" />
-<h4>Completed:</h4>
-<ul>
-   <li>Gathered a <a href="https://www.kaggle.com/datasets/37798ba55fed88400b584cd0df4e784317eb7a6708e02fd5a650559fb4598353">dataset</a>;</li>
-   <li>Developed an <a href="https://github.com/Pythonimous/ficbot">ML-based backend</a> for:</li>
-   <ul>
-      <li> Image -> Name generation
-   </ul>
-   <li>Developed <a href="https://github.com/Pythonimous/ficbot-web">Flask-based web interface</a>;</li>
-   <li>Deployed the <a href="https://ficbotweb.herokuapp.com/">Web App</a> :)</li>
-</ul>
-<h4>In development:</h4>
-<ul>
-   <li>Biography generation;</li>
-   <li>Image generation;</li>
-   <li>Full OC generation;</li>
-   <li>Image anime style transfer (turn yourself into OC? 😅)</li>
-</ul>
-<h4>Stay tuned for more!</h4>
+<h3><a href="https://www.kaggle.com/datasets/37798ba55fed88400b584cd0df4e784317eb7a6708e02fd5a650559fb4598353">Check</a> | <a href="https://github.com/Pythonimous/ficbot">it</a> | <a href="https://github.com/Pythonimous/ficbot-web">out</a>!</h3>
+
 
 <h3> 🖥️ Recent development breakdown: </h3>
 <!--START_SECTION:waka-->
