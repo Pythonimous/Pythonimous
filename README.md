@@ -38,7 +38,7 @@
       <td>
          <!-- languages -->
          <a href="https://www.java.com/">
-            <img alt="Java" title="Python" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/java.svg" />
+            <img alt="Java" title="Java" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/java.svg" />
          </a>
          <a href="https://en.cppreference.com/w/">
             <img alt="C++" title="C++" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/cpp.svg" />
