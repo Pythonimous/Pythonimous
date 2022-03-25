@@ -7,7 +7,7 @@
 
 <p>I am Kirill, an ML developer from
    <img alt="Siberia" title="Siberia" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/snow.svg"> <b>Siberia</b>, who recently moved to <img alt="Turkey" title="Turkey" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/turkey.svg" /> <b>Antalya, Turkey</b>. A computational linguist by education, I am in search of a place to apply my skills. At your service!</p>
-<p>Contact me if you'd like to take me into your service :pray:</p> 
+<p><a href="mailto:kir.nikolaev7@gmail.com">Contact me</a> if you'd like to take me into your service :pray:</p> 
 
 <h4> 🔭 Things I work with: </h4>
 <!-- languages -->
@@ -99,12 +99,12 @@
    <li>Deployed <a href="https://ficbotweb.herokuapp.com/">web app</a> :)</li>
 </ol>
 <h4>In development:</h4>
-<ol>
+<ul>
    <li>Biography generation;</li>
    <li>Image generation;</li>
    <li>Full OC generation;</li>
    <li>Image anime style transfer (turn yourself into OC? 😅)</li>
-</ol>
+</ul>
 <h4>Stay tuned for more!</h4>
 
 <h3> 🖥️ Recent development breakdown: </h3>
