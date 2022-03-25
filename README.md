@@ -96,13 +96,13 @@
 </table>
 
 -----
-<h3>The Thing currently in development:</h3>
-<h4><img alt="anime" title="anime" width="20px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/anime.png">  <a href="https://ficbotweb.herokuapp.com/">An Anime character generator</a>  <img alt="anime" title="anime" width="20px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/anime.png"></h4>
+<h2>The Thing currently in development:</h2>
+<h3><img alt="anime" title="anime" width="20px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/anime.png">  <a href="https://ficbotweb.herokuapp.com/">An Anime character generator</a>  <img alt="anime" title="anime" width="20px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/anime.png"></h3>
 <img src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/gifs/namegen.gif" width="700" />
 <h3><a href="https://github.com/Pythonimous/ficbot-web">Check out the source</a>!</h3>
 
 -----
-<h3> 🖥️ Recent development breakdown: </h3>
+<h2> 🖥️ This week I used: </h2>
 <!--START_SECTION:waka-->
 
 ```text
@@ -115,6 +115,9 @@ Text               32 mins         ██░░░░░░░░░░░░░
 Markdown           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 Jupyter            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
+
+<!--END_SECTION:waka-->
+
 -----
 <h2 id="findme">Find me!</h2>
 <a href="https://www.linkedin.com/in/kirnikolaev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -125,19 +128,3 @@ Jupyter            1 min           ░░░░░░░░░░░░░░░
 <a href="https://www.facebook.com/kirill.nickolaev.3/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://www.goodreads.com/user/show/96885015-kirill"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white"></a>
 <a href="https://myanimelist.net/profile/JadeDragonus007"><img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"></a>
-
-<!--END_SECTION:waka-->
-<!--
-**Pythonimous/Pythonimous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
