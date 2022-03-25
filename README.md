@@ -9,6 +9,8 @@
    <img alt="Siberia" title="Siberia" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/snow.svg"> <b>Siberia</b>, who recently moved to <img alt="Turkey" title="Turkey" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/turkey.svg" /> <b>Antalya, Turkey</b>. A computational linguist by education, I am in search of a place to apply my skills.</p>
 <p><a href="mailto:kir.nikolaev7@gmail.com">Contact me</a> if you'd like me at your service :pray:</p>
 
+-----
+
 <h2>A table of things that...</h2>
 <table>
    <tr>
@@ -98,12 +100,13 @@
    </tr>
 </table>
 
+-----
 <h3>The Thing currently in development:</h3>
 <h4><img alt="anime" title="anime" width="20px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/anime.png">  <a href="https://ficbotweb.herokuapp.com/">An Anime character generator</a>  <img alt="anime" title="anime" width="20px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/anime.png"></h4>
 <img src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/gifs/namegen.gif" width="700" />
 <h3><a href="https://www.kaggle.com/datasets/37798ba55fed88400b584cd0df4e784317eb7a6708e02fd5a650559fb4598353">Check</a> | <a href="https://github.com/Pythonimous/ficbot">it</a> | <a href="https://github.com/Pythonimous/ficbot-web">out</a>!</h3>
 
-
+-----
 <h3> 🖥️ Recent development breakdown: </h3>
 <!--START_SECTION:waka-->
 
