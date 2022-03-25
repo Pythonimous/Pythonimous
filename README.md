@@ -5,14 +5,27 @@
 [![GitHub Pythonimous](https://img.shields.io/github/followers/Pythonimous?label=follow&style=social)](https://github.com/Pythonimous)
 [![Repos](https://badges.pufler.dev/repos/Pythonimous)](https://badges.pufler.dev)
 
-<p>I am Kirill, an ML developer from <a href="https://github.com/topics/python">
-   <img alt="Siberia" title="Siberia" width="13px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/snow.svg"> <b>Siberia</b>, recently moved to <img alt="Turkey" title="Turkey" width="13px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/turkey.svg" /> <b>Antalya, Turkey</b>. At your service!</p>
+<p>I am Kirill, an ML developer from
+   <img alt="Siberia" title="Siberia" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/snow.svg"> <b>Siberia</b>, recently moved to <img alt="Turkey" title="Turkey" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/turkey.svg" /> <b>Antalya, Turkey</b>. At your service!</p>
 
 <h3> 🔭 Things I know: </h3>
-<code>
 <!-- languages -->
-<img alt="Python" title="Python" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/python.svg" />
-</code>
+<a href="https://www.python.org/">
+   <img alt="Python" title="Python" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/python.svg" />
+</a>
+<!-- tools -->
+<a href="https://pytorch.org/">
+   <img alt="Pytorch" title="Pytorch" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/pytorch.svg" />
+</a>
+<a href="https://keras.io/">
+   <img alt="Keras" title="Keras" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/keras.png" />
+</a>
+<a href="https://www.tensorflow.org/">
+   <img alt="Tensorflow" title="Tensorflow" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/tensorflow.svg" />
+</a>
+<a href="https://pandas.pydata.org/">
+   <img alt="Pandas" title="Pandas" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/pandas.svg" />
+</a>
 
 <h3> 🖥️ Recent development breakdown: </h3>
 <!--START_SECTION:waka-->
