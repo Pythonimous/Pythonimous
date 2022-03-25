@@ -2,7 +2,7 @@
 
 <p>I am Kirill, an ML developer from
    <img alt="Siberia" title="Siberia" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/snow.svg"> <b>Siberia</b>, who recently moved to <img alt="Turkey" title="Turkey" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/turkey.svg" /> <b>Antalya, Turkey</b>. A computational linguist by education, I am in search of a place to apply my skills.</p>
-<p><b><a href="#findme">Contact me</a></b> if you'd like me at your service :pray:</p>
+<p><b><a href="#findme">Find me</a></b> if you'd like me at your service :pray:</p>
 
 -----
 
@@ -12,8 +12,8 @@
       <th>...I know :microscope:</th>
       <th>...I recognize :telescope:</th>
       <th>...I utilize :wrench:</th>
-      <th>...I learn :closed_book:</th>
-      <th>...help me learn :pencil2:</th>
+      <th>...help me study :pencil2:</th>
+      <th>...liberate me :earth_africa:</th>
    </tr>
    <tr>
       <td>
@@ -67,6 +67,17 @@
          </a>
       </td>
       <td>
+         <a href="https://apps.ankiweb.net/">
+            <img alt="anki" title="Anki" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/anki.png" />
+         </a>
+         <a href="https://www.coursera.org/">
+            <img alt="coursera" title="Coursera" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/coursera.png" />
+         </a>
+         <a href="https://khanacademy.org/">
+            <img alt="khanacademy" title="Khan Academy" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/khan.png" />
+         </a>
+      </td>
+      <td>
          <!-- languages -->
          <a href="https://www.urbandictionary.com/">
             <img alt="english" title="English" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/uk.svg" />
@@ -79,17 +90,6 @@
          </a>
          <a href="https://translate.google.com">
             <img alt="turkish" title="Turkish" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/turkish.svg" />
-         </a>
-      </td>
-      <td>
-         <a href="https://www.urbandictionary.com/">
-            <img alt="english" title="english" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/anki.png" />
-         </a>
-         <a href="https://jisho.org">
-            <img alt="japanese" title="japanese" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/coursera.png" />
-         </a>
-         <a href="https://www.linguee.com/english-german">
-            <img alt="german" title="german" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/khan.png" />
          </a>
       </td>
    </tr>
