@@ -8,6 +8,16 @@
 <p>Hello there! ML developer from :snowflake: <b>Siberia</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/3909/3909414.png" width="13"/> <b>Antalya, Turkey</b>, at your service!</p> 
 
 <!--START_SECTION:waka-->
+
+```text
+Python             2 hrs 57 mins   ███████████▒░░░░░░░░░░░░░   45.87 %
+HTML               2 hrs 18 mins   █████████░░░░░░░░░░░░░░░░   35.90 %
+requirements.txt   33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
+Text               32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+Markdown           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Jupyter            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+```
+
 <!--END_SECTION:waka-->
 <!--
 **Pythonimous/Pythonimous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
