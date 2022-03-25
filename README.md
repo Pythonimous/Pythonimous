@@ -38,27 +38,52 @@
 <a href="https://html.spec.whatwg.org/multipage/">
    <img alt="HTML" title="HTML" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/html.svg" />
 </a>
-<!-- tools -->
-
 
 <h4> :wrench: Things that help me work with other things: </h4>
 <!-- OS -->
-<a href="https://www.python.org/">
+<a href="https://www.linux.org/">
    <img alt="Linux" title="Linux" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/linux.svg" />
 </a>
 <!-- tools -->
-<a href="https://pytorch.org/">
+<a href="https://www.microsoft.com/en-us/windows">
    <img alt="Windows" title="Windows" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/windows.svg" />
 </a>
-<a href="https://keras.io/">
+<a href="https://www.jetbrains.com/pycharm/">
    <img alt="Pycharm" title="Pycharm" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/pycharm.svg" />
 </a>
-<a href="https://www.tensorflow.org/">
+<a href="https://jupyter.org/">
    <img alt="Jupyter" title="Jupyter" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/jupyter.svg" />
 </a>
-<a href="https://pandas.pydata.org/">
+<a href="https://code.visualstudio.com/">
    <img alt="VSC" title="VSC" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/vsc.svg" />
 </a>
+
+<h4> :blue_book: Other things I learn: </h4>
+<!-- languages -->
+<a href="https://www.urbandictionary.com/">
+   <img alt="english" title="english" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/uk.svg" />
+</a>
+<a href="https://jisho.org">
+   <img alt="japanese" title="japanese" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/japan.svg" />
+</a>
+<a href="https://www.linguee.com/english-german">
+   <img alt="german" title="german" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/germany.svg" />
+</a>
+<a href="https://translate.google.com">
+   <img alt="turkish" title="turkish" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/turkey.svg" />
+</a>
+
+<h4> :bookmark: Things that help me learn :) </h4>
+<a href="https://www.urbandictionary.com/">
+   <img alt="english" title="english" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/anki.png" />
+</a>
+<a href="https://jisho.org">
+   <img alt="japanese" title="japanese" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/coursera.png" />
+</a>
+<a href="https://www.linguee.com/english-german">
+   <img alt="german" title="german" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/khan.png" />
+</a>
+
 
 <h3> 🖥️ Recent development breakdown: </h3>
 <!--START_SECTION:waka-->
