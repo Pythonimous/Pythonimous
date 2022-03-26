@@ -127,4 +127,4 @@ GitIgnore file     1 min           ░░░░░░░░░░░░░░░
 <a href="https://join.skype.com/invite/jg6j00MaY9lm"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white"></a>
 <a href="https://www.facebook.com/kirill.nickolaev.3/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://www.goodreads.com/user/show/96885015-kirill"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white"></a>
-<a href="https://myanimelist.net/profile/JadeDragonus007"><img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"></a>
+<a href="https://myanimelist.net/profile/Ophelion"><img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"></a>
