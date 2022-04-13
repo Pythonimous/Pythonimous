@@ -106,14 +106,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 April 2022 - To: 11 April 2022
+From: 05 April 2022 - To: 12 April 2022
 
-Python             27 hrs          ███████████████████████▓░   94.03 %
-Markdown           49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-Bash               13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-Text               10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-requirements.txt   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Shell Script       8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Python             20 hrs 40 mins  ████████████████████▓░░░░   83.07 %
+HTML               2 hrs 35 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+Markdown           32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Text               23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Bash               13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+requirements.txt   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
