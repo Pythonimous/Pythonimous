@@ -41,7 +41,7 @@
          </a>
          <a href="https://en.cppreference.com/w/">
             <img alt="C++" title="C++" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/cpp.svg" />
-         </a>C, или команда на команду тоже нормас?
+         </a>
          <a href="https://html.spec.whatwg.org/multipage/">
             <img alt="HTML" title="HTML" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/html.svg" />
          </a>
@@ -70,7 +70,7 @@
             <img alt="anki" title="Anki" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/anki.png" />
          </a>
          <a href="https://www.coursera.org/">
-            <img alt="coursera" title="Coursera" width="32px" src="https://raw.githubusercontentC, или команда на команду тоже нормас?.com/Pythonimous/Pythonimous/main/assets/coursera.png" />
+            <img alt="coursera" title="Coursera" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/coursera.png" />
          </a>
          <a href="https://khanacademy.org/">
             <img alt="khanacademy" title="Khan Academy" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/khan.png" />
