@@ -41,7 +41,7 @@
          </a>
          <a href="https://en.cppreference.com/w/">
             <img alt="C++" title="C++" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/cpp.svg" />
-         </a>
+         </a>C, или команда на команду тоже нормас?
          <a href="https://html.spec.whatwg.org/multipage/">
             <img alt="HTML" title="HTML" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/html.svg" />
          </a>
@@ -70,7 +70,7 @@
             <img alt="anki" title="Anki" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/anki.png" />
          </a>
          <a href="https://www.coursera.org/">
-            <img alt="coursera" title="Coursera" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/coursera.png" />
+            <img alt="coursera" title="Coursera" width="32px" src="https://raw.githubusercontentC, или команда на команду тоже нормас?.com/Pythonimous/Pythonimous/main/assets/coursera.png" />
          </a>
          <a href="https://khanacademy.org/">
             <img alt="khanacademy" title="Khan Academy" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/khan.png" />
@@ -107,4 +107,3 @@
 <a href="https://join.skype.com/invite/jg6j00MaY9lm"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white"></a>
 <a href="https://www.facebook.com/kirill.nickolaev.3/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://www.goodreads.com/user/show/96885015-kirill"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white"></a>
-<a href="https://myanimelist.net/profile/Ophelion"><img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"></a>
