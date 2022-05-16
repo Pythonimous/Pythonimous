@@ -96,7 +96,7 @@
 
 -----
 <h2>The Thing currently in development:</h2>
-<h3><img alt="anime" title="anime" width="20px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/anime.png">  <a href="https://ficbotweb.com/">An OC generator</a>  <img alt="anime" title="anime" width="20px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/anime.png"></h3>
+<h3><img alt="anime" title="anime" width="20px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/anime.png">  <a href="https://ficbotweb.com/">An AI-based AnimeOC generator</a>  <img alt="anime" title="anime" width="20px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/anime.png"></h3>
 <img src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/gifs/namegen.gif" width="700" />
 <h3><a href="https://github.com/Pythonimous/ficbot-web">Check out the source</a>!</h3>
 
