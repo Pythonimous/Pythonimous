@@ -102,20 +102,6 @@
 <h3><a href="https://github.com/Pythonimous/ficbot-web">Check out the source</a>!</h3>
 
 -----
-<h2> 🖥️ This week I used: </h2>
-<!--START_SECTION:waka-->
-
-```text
-From: 08 May 2022 - To: 15 May 2022
-
-Python     3 mins          ███████████████████████▒░   93.34 %
-Markdown   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-```
-
-<!--END_SECTION:waka-->
-
------
 <h2 id="findme">Find me!</h2>
 <a href="https://www.linkedin.com/in/kirnikolaev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="kir.nikolaev.7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
