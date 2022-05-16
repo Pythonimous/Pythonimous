@@ -1,11 +1,10 @@
 <h1> Look who we have here! Stay awhile and listen :book: </h1>
 
 <p>I am Kirill, an ML developer from
-   <img alt="Siberia" title="Siberia" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/snow.svg"> <b>Siberia</b>, who recently moved to <img alt="Turkey" title="Turkey" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/turkey.svg" /> <b>Antalya, Turkey</b>. A computational linguist by education, I am in search of a place to apply my skills.</p>
-<p><b><a href="#findme">Find me</a></b> if you'd like me at your service :pray:</p>
+   <img alt="Siberia" title="Siberia" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/snow.svg"> <b>Siberia</b>, who recently moved to <img alt="Turkey" title="Turkey" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/turkey.svg" /> <b>Antalya, Turkey</b>.</p>
+<p>Master of Data Science with 3 years of professional experience. University gave me NLP, AI, and Python, and what I don't know, I learn myself.</p>
 
 -----
-
 <h2>A table of things that...</h2>
 <table>
    <tr>
