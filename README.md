@@ -2,7 +2,7 @@
 
 <p>I am Kirill, an ML developer from
    <img alt="Siberia" title="Siberia" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/snow.svg"> <b>Siberia</b>, who recently moved to <img alt="Turkey" title="Turkey" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/turkey.svg" /> <b>Antalya, Turkey</b>.</p>
-<p>Master of Data Science with 3 years of professional experience. University gave me NLP, AI, and Python, and what I don't know, I learn myself.</p>
+<p>Master of Data Science with 3 years of professional experience. Uni gave me NLP, AI, and Python, and what I don't know, I learn myself :eyeglasses:</p>
 
 -----
 <h2>A table of things that...</h2>
