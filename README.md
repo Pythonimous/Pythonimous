@@ -96,7 +96,7 @@
 
 -----
 <h2>Currently in development:</h2>
-<h3><a href="https://ficbotweb.com/">An AI-based OC generator.</a> <a href="https://github.com/Pythonimous/ficbot-web">Check out the source</a>!</h3>
+<h3>An AI-based OC generator. <a href="https://github.com/Pythonimous/ficbot-web">Check out the source</a>!</h3>
 
 -----
 <h2 id="findme">Find me!</h2>
