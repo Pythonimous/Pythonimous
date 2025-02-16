@@ -1,7 +1,7 @@
 <h1> Look who we have here! Stay awhile and listen :book: </h1>
 
 <p>I am Kirill, an ML developer from
-   <img alt="Siberia" title="Siberia" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/snow.svg"> <b>Siberia</b>, who recently moved to <img alt="Turkey" title="Turkey" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/turkey.svg" /> <b>Antalya, Turkey</b>.</p>
+   <img alt="Siberia" title="Siberia" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/snow.svg"> <b>Siberia</b>, currently based in <img alt="Brazil" title="Brazil" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/brasil.svg" /> <b>São Paulo, Brazil</b>.</p>
 <p>Master of Data Science with 3 years of professional experience. University gave me NLP, AI, and Python, and what I don't know, I learn myself :electron:</p>
 
 -----
