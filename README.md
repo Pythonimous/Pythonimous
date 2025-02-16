@@ -23,14 +23,14 @@
             <img alt="Python" title="Python" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/python.svg" />
          </a>
          <!-- tools -->
+         <a href="https://www.tensorflow.org/">
+            <img alt="Tensorflow" title="Tensorflow" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/tensorflow.svg" />
+         </a>
          <a href="https://pytorch.org/">
             <img alt="Pytorch" title="Pytorch" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/pytorch.svg" />
          </a>
-         <a href="https://keras.io/">
-            <img alt="Keras" title="Keras" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/keras.png" />
-         </a>
-         <a href="https://www.tensorflow.org/">
-            <img alt="Tensorflow" title="Tensorflow" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/tensorflow.svg" />
+         <a href="https://huggingface.co/">
+            <img alt="Hugging Face" title="Hugging Face" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/huggingface.svg" />
          </a>
          <a href="https://pandas.pydata.org/">
             <img alt="Pandas" title="Pandas" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/pandas.svg" />
