@@ -44,6 +44,9 @@
       </td>
       <td>
          <!-- languages -->
+         <a href="https://aws.amazon.com/">
+            <img alt="AWS" title="AWS" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/aws.svg" />
+         </a>
          <a href="https://www.java.com/">
             <img alt="Java" title="Java" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/java.svg" />
          </a>
