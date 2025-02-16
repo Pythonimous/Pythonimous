@@ -14,7 +14,7 @@
       <th>Also familiar :telescope:</th>
       <th>My workbooks :books:</th>
       <th>My trainers :weight_lifting_man:</th>
-      <th>Mr. Worldwide :earth_africa:</th>
+      <th>Mr. Worldwide :earth_americas:</th>
    </tr>
    <tr>
       <td>
