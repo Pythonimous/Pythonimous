@@ -4,7 +4,7 @@
 <p> I am Kirill, a <b>Siberian</b>
    <img alt="Siberia" title="Siberia" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/snow.svg"> guy, finding his way in <img alt="Brazil" title="Brazil" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/brasil.svg" /> <b>São Paulo, Brazil</b>. </p>
 <p> <b>Senior NLP Engineer</b> with 5 years of professional experience. :robot: </p>
-<p> Eager for new challenges, hoping to transition into more <b>strategic</b> roles in the future (<c>AI product manager?</c> *wink wink* :office_worker::thought_balloon:) </p>
+<p> Eager for new challenges, hoping to transition into more <b>strategic</b> roles in the future (_AI product manager? *wink wink*_ :office_worker::thought_balloon:) </p>
 
 -----
 <h2>A table of things that...</h2>
