@@ -92,7 +92,6 @@
          <a href="https://jisho.org">
             <img alt="japanese" title="Japanese" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/japan.svg" />
          </a>
-
       </td>
    </tr>
 </table>
