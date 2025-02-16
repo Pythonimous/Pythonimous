@@ -106,7 +106,7 @@
 </table>
 
 -----
-<h2> Check out my work! (currently being updated over the past 2 years, please stand by :tv:) </h2>
+<h2> Check out my work! (currently being updated to account for 2+ years of top secret hidden work away from Github, please stand by :tv:) </h2>
 <h3> An AI-based OC generator. <a href="https://github.com/Pythonimous/ficbot-web">Check out the source</a>! </h3>
 
 -----
