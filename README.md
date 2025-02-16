@@ -14,7 +14,7 @@
       <th>Also familiar :telescope:</th>
       <th>My workbooks :books:</th>
       <th>My trainers :weight_lifting_man:</th>
-      <th>I can talk in... :earth_africa:</th>
+      <th>How we can talk :earth_africa:</th>
    </tr>
    <tr>
       <td>
@@ -112,7 +112,7 @@
 <p> Just upload your picture, and see what it can do! </p>
 
 -----
-<h2 id="findme">Find me!</h2>
+<h2 id="findme">Find me here!</h2>
 <a href="https://www.linkedin.com/in/kirnikolaev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="kir.nikolaev.7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://web.telegram.org/#/im?p=@Ophelion"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
