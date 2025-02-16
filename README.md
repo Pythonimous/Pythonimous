@@ -57,14 +57,14 @@
          <a href="https://www.microsoft.com/en-us/windows">
             <img alt="Windows" title="Windows" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/windows.svg" />
          </a>
-         <a href="https://www.jetbrains.com/pycharm/">
-            <img alt="Pycharm" title="Pycharm" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/pycharm.svg" />
+         <a href="https://code.visualstudio.com/">
+            <img alt="VSC" title="VSC" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/vsc.svg" />
          </a>
          <a href="https://jupyter.org/">
             <img alt="Jupyter" title="Jupyter" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/jupyter.svg" />
          </a>
-         <a href="https://code.visualstudio.com/">
-            <img alt="VSC" title="VSC" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/vsc.svg" />
+         <a href="https://www.jetbrains.com/pycharm/">
+            <img alt="Pycharm" title="Pycharm" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/pycharm.svg" />
          </a>
       </td>
       <td>
