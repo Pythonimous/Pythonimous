@@ -11,7 +11,7 @@
 <table>
    <tr>
       <th>My tools :pick:</th>
-      <th>Can quickly refresh :telescope:</th>
+      <th>Also familiar :telescope:</th>
       <th>My workbooks :books:</th>
       <th>My trainers :weight_lifting_man:</th>
       <th>I can talk in... :earth_africa:</th>
