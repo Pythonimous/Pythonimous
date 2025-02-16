@@ -61,14 +61,7 @@
          </a>
       </td>
       <td>
-         <!-- OS -->
-         <a href="https://www.linux.org/">
-            <img alt="Linux" title="Linux" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/linux.svg" />
-         </a>
          <!-- tools -->
-         <a href="https://www.microsoft.com/en-us/windows">
-            <img alt="Windows" title="Windows" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/windows.svg" />
-         </a>
          <a href="https://code.visualstudio.com/">
             <img alt="VSC" title="VSC" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/vsc.svg" />
          </a>
