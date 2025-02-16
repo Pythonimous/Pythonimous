@@ -38,7 +38,7 @@
          <a href="https://kubernetes.io/">
             <img alt="Kubernetes" title="Kubernetes" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/kubernetes.svg" />
          </a>
-         <a href="https://cloud.google.com/>
+         <a href="https://cloud.google.com/">
             <img alt="GCP" title="GCP" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/gcp.svg" />
          </a>
       </td>
