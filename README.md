@@ -1,9 +1,10 @@
 <h1> Look who we have here! Stay awhile and listen :book: </h1>
 
-<p>I am Kirill, Senior NLP Engineer from
-   <img alt="Siberia" title="Siberia" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/snow.svg"> <b>Siberia</b>, based in <img alt="Brazil" title="Brazil" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/brasil.svg" /> <b>São Paulo, Brazil</b>.</p>
-<p>Master of Data Science with 5 years of professional experience. :robot:</p>
-<p>Eager for new challenges, hoping to transition into more strategic roles in the future :office_worker::thought_balloon:</p>
+<h2> Thank you for stopping by! </h2>
+<p> I am Kirill, Senior NLP Engineer from
+   <img alt="Siberia" title="Siberia" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/snow.svg"> <b>Siberia</b>, based in <img alt="Brazil" title="Brazil" width="15px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/brasil.svg" /> <b>São Paulo, Brazil</b>. </p>
+<p> Master of Data Science with 5 years of professional experience. :robot: </p>
+<p> Eager for new challenges, hoping to transition into more strategic roles in the future :office_worker::thought_balloon: </p>
 
 -----
 <h2>A table of things that...</h2>
