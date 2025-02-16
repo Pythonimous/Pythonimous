@@ -7,14 +7,14 @@
 <p> Eager for new challenges, hoping to transition into more <b>strategic</b> roles in the future (<i>AI product manager? *wink wink*</i> :office_worker::thought_balloon:) </p>
 
 -----
-<h2>A table of things that...</h2>
+<h2>My toolbox :toolbox:</h2>
 <table>
    <tr>
-      <th>...I know :microscope:</th>
-      <th>...I recognize :telescope:</th>
-      <th>...I utilize :wrench:</th>
-      <th>...help me study :pencil2:</th>
-      <th>...liberate me :earth_africa:</th>
+      <th>My tools :pick:</th>
+      <th>Can quickly refresh :telescope:</th>
+      <th>My workbooks :books:</th>
+      <th>My trainers :weight_lifting_man:</th>
+      <th>I can talk in... :earth_africa:</th>
    </tr>
    <tr>
       <td>
