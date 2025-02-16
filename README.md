@@ -56,6 +56,9 @@
          <a href="https://html.spec.whatwg.org/multipage/">
             <img alt="HTML" title="HTML" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/html.svg" />
          </a>
+         <a href="https://www.atlassian.com/software/jira">
+            <img alt="Jira" title="Jira" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/jira.svg" />
+         </a>
       </td>
       <td>
          <!-- OS -->
