@@ -101,6 +101,9 @@
          <a href="https://jisho.org">
             <img alt="japanese" title="Japanese" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/japan.svg" />
          </a>
+         <a href="https://translate.google.com/">
+            <img alt="Google Translate" title="Google Translate" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/gtranslate.svg" />
+         </a>
       </td>
    </tr>
 </table>
