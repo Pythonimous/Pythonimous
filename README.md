@@ -106,8 +106,9 @@
 </table>
 
 -----
-<h2> Check out my work! (currently being updated to account for 2+ years of top secret hidden work :disguised_face: away from Github, please stand by :tv:) </h2>
-<h3> An AI-based OC generator. <a href="https://github.com/Pythonimous/ficbot-web">Check out the source</a>! </h3>
+<h2> Check out my work! </h2>
+<h3>(currently being updated to account for 2+ years of top secret hidden work :disguised_face: away from Github, please stand by :tv:) </h3>
+<h2> An AI-based anime character generator! <a href="https://github.com/Pythonimous/ficbot-web">(SOURCE)</a> </h2>
 
 -----
 <h2 id="findme">Find me!</h2>
