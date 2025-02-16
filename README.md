@@ -80,25 +80,26 @@
       </td>
       <td>
          <!-- languages -->
-         <a href="https://www.urbandictionary.com/">
+         <a href="https://dictionary.cambridge.org">
             <img alt="english" title="English" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/uk.svg" />
+         </a>
+         <a href="https://en.openrussian.org">
+            <img alt="russian" title="Russian" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/russia.svg" />
+         </a>
+         <a href="https://www.collinsdictionary.com/dictionary/english-portuguese">
+            <img alt="portuguese" title="Portuguese" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/brasil.svg" />
          </a>
          <a href="https://jisho.org">
             <img alt="japanese" title="Japanese" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/japan.svg" />
          </a>
-         <a href="https://www.linguee.com/english-german">
-            <img alt="german" title="German" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/germany.svg" />
-         </a>
-         <a href="https://translate.google.com">
-            <img alt="turkish" title="Turkish" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/turkish.svg" />
-         </a>
+
       </td>
    </tr>
 </table>
 
 -----
-<h2>Currently in development:</h2>
-<h3>An AI-based OC generator. <a href="https://github.com/Pythonimous/ficbot-web">Check out the source</a>!</h3>
+<h2> Check out my work! (currently being updated over the past 2 years, please stand by :tv:) </h2>
+<h3> An AI-based OC generator. <a href="https://github.com/Pythonimous/ficbot-web">Check out the source</a>! </h3>
 
 -----
 <h2 id="findme">Find me!</h2>
