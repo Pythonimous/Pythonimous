@@ -107,7 +107,8 @@
 -----
 <h2> Check out my work! </h2>
 <h3>(currently being updated to account for 2+ years of top secret hidden work :disguised_face: away from Github, please stand by :tv:) </h3>
-<h2> <a href="[https://github.com/Pythonimous/ficbot](https://ficbotweb.com)"> </h2> <a href="https://github.com/Pythonimous/ficbot">(SOURCE)</a> </h2>
+<h2> <a href="https://ficbotweb.com"> AI-based anime character generator! </a> </h2>
+<h3><a href="https://github.com/Pythonimous/ficbot">(repository)</a></h3>
 <p> Just upload your picture, and see what it can do! </p>
 
 -----
