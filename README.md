@@ -18,13 +18,9 @@
    </tr>
    <tr>
       <td>
-         <!-- languages -->
+         <!-- Languages & frameworks -->
          <a href="https://www.python.org/">
             <img alt="Python" title="Python" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/python.svg" />
-         </a>
-         <!-- tools -->
-         <a href="https://www.tensorflow.org/">
-            <img alt="Tensorflow" title="Tensorflow" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/tensorflow.svg" />
          </a>
          <a href="https://pytorch.org/">
             <img alt="Pytorch" title="Pytorch" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/pytorch.svg" />
@@ -32,20 +28,23 @@
          <a href="https://huggingface.co/">
             <img alt="Hugging Face" title="Hugging Face" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/huggingface.svg" />
          </a>
+         <a href="https://www.tensorflow.org/">
+            <img alt="Tensorflow" title="Tensorflow" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/tensorflow.svg" />
+         </a>
          <a href="https://pandas.pydata.org/">
             <img alt="Pandas" title="Pandas" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/pandas.svg" />
          </a>
          <a href="https://www.docker.com/">
             <img alt="Docker" title="Docker" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/docker.svg" />
          </a>
-         <a href="https://cloud.google.com/">
-            <img alt="GCP" title="GCP" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/gcp.svg" />
+         <a href="https://aws.amazon.com/">
+            <img alt="AWS" title="AWS" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/aws.svg" />
          </a>
       </td>
       <td>
-         <!-- languages -->
-         <a href="https://aws.amazon.com/">
-            <img alt="AWS" title="AWS" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/aws.svg" />
+         <!-- Familiar tools -->
+         <a href="https://cloud.google.com/">
+            <img alt="GCP" title="GCP" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/gcp.svg" />
          </a>
          <a href="https://www.java.com/">
             <img alt="Java" title="Java" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/java.svg" />
@@ -61,7 +60,7 @@
          </a>
       </td>
       <td>
-         <!-- tools -->
+         <!-- Work environments -->
          <a href="https://code.visualstudio.com/">
             <img alt="VSC" title="VSC" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/vsc.svg" />
          </a>
@@ -73,6 +72,7 @@
          </a>
       </td>
       <td>
+         <!-- Learning platforms -->
          <a href="https://apps.ankiweb.net/">
             <img alt="anki" title="Anki" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/anki.png" />
          </a>
@@ -84,7 +84,7 @@
          </a>
       </td>
       <td>
-         <!-- languages -->
+         <!-- Languages -->
          <a href="https://dictionary.cambridge.org">
             <img alt="english" title="English" width="32px" src="https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/geo/uk.svg" />
          </a>
@@ -105,11 +105,13 @@
 </table>
 
 -----
-<h2> Check out my work! </h2>
-<h3>(currently being updated to account for 2+ years of top secret hidden work :disguised_face: away from Github, please stand by :tv:) </h3>
-<h2> <a href="https://ficbotweb.com"> AI-based anime character generator! </a> </h2>
-<h3><a href="https://github.com/Pythonimous/ficbot">(repository)</a></h3>
-<p> Just upload your picture, and see what it can do! </p>
+<h2>
+  <a href="https://ficbotweb.com">AI-based Anime Character Generator!</a>
+</h2>
+<h3>
+  <a href="https://github.com/Pythonimous/ficbot">(See the repository)</a>
+</h3>
+<p>Upload your picture and see the magic unfold!</p>
 
 -----
 <h2 id="findme">Find me here!</h2>
