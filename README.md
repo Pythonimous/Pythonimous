@@ -108,10 +108,12 @@
 <h2>
   <a href="https://ficbotweb.com">AI-based Anime Character Generator!</a>
 </h2>
-<h3>
-  <a href="https://github.com/Pythonimous/ficbot">(See the repository)</a>
-</h3>
+
 <p>Upload your picture and see the magic unfold!</p>
+
+![Anime Character Generator](https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/gifs/namegen.gif)
+
+<h3><a href="https://github.com/Pythonimous/ficbot">(See the repository!)</a></h3>
 
 -----
 <h2 id="findme">Find me here!</h2>
