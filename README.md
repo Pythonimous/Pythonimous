@@ -111,7 +111,7 @@
 
 <p>Upload your picture and see the magic unfold!</p>
 
-![Anime Character Generator](https://raw.githubusercontent.com/Pythonimous/Pythonimous/main/assets/gifs/namegen.gif)
+![Anime Character Generator](/assets/gifs/namegen.gif)
 
 <h3><a href="https://github.com/Pythonimous/ficbot">(See the repository!)</a></h3>
 
